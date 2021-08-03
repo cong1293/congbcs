@@ -242,7 +242,7 @@
   "section": "Footer",
   "key": "footer_social",
   "type": "array",
-  "label": "Social icons",
+  "label": "Mạng xã hội",
   "properties": [{
     "key": "type",
     "type": "string",
@@ -300,7 +300,7 @@
   "section": "Footer",
   "key": "footer_contacts",
   "type": "array",
-  "label": "Contacts",
+  "label": "Giới thiệu Footer",
   "properties": [{
     "key": "text",
     "type": "string",
@@ -321,33 +321,33 @@
     "label": "Link url"
   }]
 }, {
-  "section": "Product Details",
+  "section": "Thông tin chi tiết sản phẩm",
   "key": "related_products_title",
   "type": "string",
-  "label": "Related Products Title"
+  "label": "Tiêu đề sản phẩm liên quan"
 }, {
   "section": "Product Details",
   "key": "product_gallery_shownav",
   "type": "boolean",
-  "label": "Show Navigation Arrows in Gallery"
+  "label": "Hiển thị các Mũi tên Điều hướng"
 }, {
   "section": "Home",
   "key": "home_gallery_shownav",
   "type": "boolean",
-  "label": "Show Navigation Arrows in Gallery"
+  "label": "Hiển thị các Mũi tên Điều hướng"
 }, {
   "section": "Product Details",
   "key": "show_viewed_products",
   "type": "boolean",
-  "label": "Show recently viewed products"
+  "label": "Hiển thị các sản phẩm đã xem gần đây"
 }, {
   "section": "Product Details",
   "key": "limit_viewed_products",
   "type": "number",
-  "label": "Count of recently viewed products"
+  "label": "Số lượng hiển thị sản phẩm đã xem gần đây"
 }, {
   "section": "Pages",
   "key": "page_list_tag",
   "type": "string",
-  "label": "Tag to create page list (blog, news, articles or docs)"
+  "label": "Tạo thẻ hiển thị danh sách trang (blog, news, articles or docs)"
 }]
