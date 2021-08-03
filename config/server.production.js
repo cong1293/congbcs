@@ -40,10 +40,10 @@ module.exports = {
 	},
 
 	// key to sign tokens
-	jwtSecretKey: 'SP69kXFR3znRi7kL8Max2GTB24wOtEQj',
+	jwtSecretKey: '',
 
 	// key to sign store cookies
-	cookieSecretKey: '8669X9P5yI1DAEthy1chc3M9EncyS7SM',
+	cookieSecretKey: '',
 
 	// path to uploads
 	categoriesUploadPath: 'public/content/images/categories',
