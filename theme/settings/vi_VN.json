@@ -321,20 +321,20 @@
     "label": "Link url"
   }]
 }, {
-  "section": "Thông tin chi tiết sản phẩm",
+  "section": "Product Details",
   "key": "related_products_title",
   "type": "string",
-  "label": "Tiêu đề sản phẩm liên quan"
+  "label": "Related Products Title"
 }, {
   "section": "Product Details",
   "key": "product_gallery_shownav",
   "type": "boolean",
-  "label": "Hiển thị các Mũi tên Điều hướng"
+  "label": "Hiển thị cácMũi tên Điều hướng"
 }, {
   "section": "Home",
   "key": "home_gallery_shownav",
   "type": "boolean",
-  "label": "Hiển thị các Mũi tên Điều hướng"
+  "label": "Hiển thị Mũi tên Điều hướng"
 }, {
   "section": "Product Details",
   "key": "show_viewed_products",
