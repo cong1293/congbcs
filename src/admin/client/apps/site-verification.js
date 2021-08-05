@@ -6,9 +6,9 @@ import RaisedButton from 'material-ui/RaisedButton';
 
 export const Description = {
 	key: 'site-verification',
-	name: 'Xác minh trang web SEO',
+	name: 'SEO',
 	coverUrl: '/admin-assets/images/apps/site_verification.png',
-	description: `Xác minh trang web của bạn với các công cụ tìm kiếm(SEO) là một cách tuyệt vời để trang web của bạn được lập chỉ mục(index) nhanh chóng vào kết quả tìm kiếm của họ. Khi trang web của bạn được Index, điều này có nghĩa là trang web của bạn có cơ hội xuất hiện trong các kết quả tìm kiếm khi mọi người tìm kiếm các từ khóa nhất định.
+	description: `Xác minh trang web của bạn với các công cụ tìm kiếm là một cách tuyệt vời để trang web của bạn được lập chỉ mục nhanh chóng vào kết quả tìm kiếm của họ. Khi trang web của bạn được Index, điều này có nghĩa là trang web của bạn có cơ hội xuất hiện trong các kết quả tìm kiếm khi mọi người tìm kiếm các từ khóa nhất định.
   <p>Các dịch vụ xác minh phổ biến:</p>
   <ol>
     <li><a target="_blank" href="https://www.google.com/webmasters/tools/" rel="external noopener noreferrer">Google Search Console</a></li>
