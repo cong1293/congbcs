@@ -29,7 +29,7 @@
   "main": "src/api/server/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hangdocgiatot/hangdocgiatot"
+    "url": "https://github.com/cong1293/congbcs"
   },
   "scripts": {
     "setup": "node -r esm src/api/server/setup.js",
