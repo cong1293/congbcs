@@ -10,9 +10,9 @@ export const Description = {
 	coverUrl: '/admin-assets/images/apps/facebook.png',
 	description: `SDK Facebook dành cho JavaScript cung cấp nhiều chức năng phía Client:
   <ol>
-    <li>Cho phép bạn sử dụng Nút Thích và các Plugin xã hội khác trên trang web của bạn.</li>
-    <li>Cho phép bạn sử dụng Đăng nhập Facebook để giảm rào cản cho mọi người đăng ký trên trang web của bạn.</li>
-    <li>Giúp dễ dàng gọi vào Graph API. của Facebook.</li>
+    <li>Cho phép bạn sử dụng Nút Thích và các Plugin xã hội khác trên trang web.</li>
+    <li>Cho phép bạn sử dụng Đăng nhập Facebook.</li>
+    <li>Giúp dễ dàng gọi vào Graph API từ Facebook.</li>
     <li>Khởi chạy Hộp thoại cho phép mọi người thực hiện các hành động khác nhau như chia sẻ câu chuyện.</li>
     <li>Tạo điều kiện giao tiếp khi bạn đang xây dựng một trò chơi hoặc một tab ứng dụng trên Facebook.</li>
   </ol>
