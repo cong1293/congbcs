@@ -8,10 +8,10 @@ export const Description = {
 	key: 'facebook-customer-chat',
 	name: 'Plugin Chat Facebook',
 	coverUrl: '/admin-assets/images/apps/messenger.png',
-	description: `<p>Với Plugin chat, bạn có thể tích hợp trực tiếp trải nghiệm Messenger vào trang web của mình. Nhờ đó, khách hàng có thể tương tác với doanh nghiệp của bạn bất cứ lúc nào bằng trải nghiệm dành riêng, đa phương tiện giống như trong Messenger.</p>
+	description: `<p>Với Plugin chat, bạn có thể tích hợp trực tiếp trải nghiệm Messenger vào trang web của mình.</p>
   <p><img src='/admin-assets/images/apps/facebook-customer-chat-plugin.png' /></p>
-  <p>Giúp bạn trò chuyện trực tiếp với khách hàng. Cho phép bạn tiếp tục cuộc ngay cả khi họ đã rời khỏi trang web của bạn. Không cần nắm bắt thông tin của họ để theo dõi, chỉ cần sử dụng cuộc trò chuyện tương tự như trong Messenger.</p>
-  <p>Cách lấy ID trang Facebook của bạn:</p>
+  <p>Giúp bạn trò chuyện trực tiếp với khách hàng. Cho phép bạn tiếp tục cuộc ngay cả khi họ đã rời khỏi trang web của bạn. Sử dụng cuộc trò chuyện tương tự như trong Messenger.</p>
+  <p>ID trang Facebook của bạn:</p>
   <ol>
     <li>Vào trang Facebook của bạn.</li>
     <li>Nhấp vào Tab Giới Thiệu.</li>
