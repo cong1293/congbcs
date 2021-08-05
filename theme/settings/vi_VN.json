@@ -300,7 +300,7 @@
   "section": "Footer",
   "key": "footer_contacts",
   "type": "array",
-  "label": "Giới thiệu Footer",
+  "label": "Contacts",
   "properties": [{
     "key": "text",
     "type": "string",
