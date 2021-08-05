@@ -270,7 +270,7 @@
     "label": "Url"
   }]
 }, {
-  "section": "Trang chủ",
+  "section": "Home",
   "key": "home_slider",
   "type": "array",
   "label": "Slider",
